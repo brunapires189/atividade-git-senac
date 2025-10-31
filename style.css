@@ -12,3 +12,30 @@ header {
   padding: 10px;
   text-align: center;
 }
+
+.container-aluno {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#meuBotao {
+    background-color: #35abe2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#meuBotao:hover {
+    background-color: #35abe2;
+}
+
+#mensagem {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #004a95;
+}
